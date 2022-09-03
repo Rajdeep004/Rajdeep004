@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajdeep004
 - 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Data Structures & Algorithms using C++
-- 💞️ I’m looking to collaborate on DSA
+- 🌱 I’m currently learning Vue.JS
+- 💞️ I’m looking to collaborate on Wev developing & Web hosting
 - 📫 How to reach me snnbarot@gmail.com 
 
 <!---
