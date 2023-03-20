@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rajdeep004
-- 👀 I’m interested in Computer Science
-- 🌱 I’m currently learning Vue.JS
-- 💞️ I’m looking to collaborate on Wev developing & Web hosting
+- 👀 I’m interested and pursuing B.Tech in Computer Science
+- 🌱 I’m currently learning Angular
+- 💞️ I’m looking to collaborate on Web developing & Web hosting
 - 📫 How to reach me snnbarot@gmail.com 
 
 <!---
