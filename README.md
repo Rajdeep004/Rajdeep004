@@ -17,7 +17,7 @@
 <a href="https://instagram.com/mr_.spike_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_.spike_" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@quick-bytes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="quick-bytes" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/rajdeep004" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rajdeep004" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@snnbarot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@snnbarot" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/snnbarot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@snnbarot" height="30" width="40" /></a>
 <a href="https://discord.gg/spike.04" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="spike.04" height="30" width="40" /></a>
 </p>
 
